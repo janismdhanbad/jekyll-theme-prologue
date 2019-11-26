@@ -1,0 +1,23 @@
+title: Janpreet Singh
+subtitle: Your awesome subtitle
+description: >-
+  This is the demo site for a Jekyll theme version of HTML5 UP's sleek,
+  responsive site template Prologue.
+author: Your Incredible Name
+email: janpreetsingh.1@gmail.com
+avatar: assets/images/avatar.jpg
+baseurl: /jekyll-theme-prologue
+url: ''
+twitter_url: https://twitter.com/janpreetds1
+facebook_url: null
+googleplus_url: null
+instagram_url: null
+linkedin_url: null
+github_url: https://github.com/janismdhanbad
+pinterest_url: null
+slack_url: null
+dribbble_url: null
+google_analytics: null
+theme: jekyll-theme-prologue
+collections:
+  - sections
