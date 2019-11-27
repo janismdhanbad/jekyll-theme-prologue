@@ -18,7 +18,6 @@ pinterest_url: null
 slack_url: null
 dribbble_url: null
 google_analytics: null
-# theme: jekyll-theme-prologue
-collections:
-  - sections
+theme: jekyll-theme-prologue
+collections: [sections]
 remote_theme: janismdhanbad/janismdhanbad.github.io
