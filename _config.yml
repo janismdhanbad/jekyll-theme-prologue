@@ -20,4 +20,4 @@ dribbble_url: null
 google_analytics: null
 theme: chrisbobbe/jekyll-theme-prologue
 collections: [sections]
-remote_theme: janismdhanbad/janismdhanbad.github.io
+remote_theme: janismdhanbad/jekyll-theme-prologue
