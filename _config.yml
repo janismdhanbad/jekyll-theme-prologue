@@ -19,5 +19,4 @@ slack_url: null
 dribbble_url: null
 google_analytics: null
 theme: jekyll-theme-prologue
-collections:
-  - sections
+collections: [sections]
